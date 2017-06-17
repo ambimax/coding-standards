@@ -4,9 +4,9 @@
         "phpmd/phpmd": "@stable",
         "zifius/magizendo": "^2.0"
     },
-    "name": "ambimax® Coding Standards",
+    "name": "ambimax/coding-standards",
     "description": "Contains all packages required for testing our coding standards",
-    "license": ["MIT"]
+    "license": ["MIT"],
     "authors":[
         {
             "name":"Tobias Schifftner"
