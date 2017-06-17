@@ -1,0 +1,15 @@
+{
+    "require": {
+        "squizlabs/php_codesniffer": "2.*",
+        "phpmd/phpmd": "@stable",
+        "zifius/magizendo": "^2.0"
+    },
+    "name": "ambimax® Coding Standards",
+    "description": "Contains all packages required for testing our coding standards",
+    "license": ["MIT"]
+    "authors":[
+        {
+            "name":"Tobias Schifftner"
+        }
+    ]
+}
